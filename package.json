@@ -1,0 +1,29 @@
+{
+  "name": "css-load-parse-test",
+  "version": "1.0.0",
+  "description": "Set of different ways to laod CSS stylesheet and asses which provides better loading time in terms of cross device optimization",
+  "main": "index.html",
+  "scripts": {
+    "start": "grunt serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "css",
+    "parsing",
+    "css",
+    "loading"
+  ],
+  "author": "Simone Rescio",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-serve": "^0.1.6",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
